@@ -1,0 +1,11 @@
+.vscode/
+__pycache__/
+ *.pyc
+.ipynb_checkpoints
+.DS_Store
+src/scraping/scrpay/comments_trustpilot.json
+src/scraping/scrpay/comments_trustpilot.csv
+src/api/ml/models/*
+!src/api/ml/models/.gitkeep
+src/training/logs/
+src/training/models/
