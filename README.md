@@ -1,1 +1,2 @@
 # Metacritic
+![](metacriticgif.gif)
