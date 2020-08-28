@@ -17,7 +17,7 @@ external_stylesheets = [
     'https://fonts.googleapis.com/css?family=Roboto&display=swap'
 ]
 
-external_script = "https://raw.githubusercontent.com/MarwanDebbiche/post-tuto-deployment/master/src/dash/assets/gtag.js"
+external_script = "https://raw.githubusercontent.com/RyanMills19/Metacritic/master/src/dash/assets/gtag.js"
 
 app = dash.Dash(
     __name__, 
